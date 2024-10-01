@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular/forms": "^18.2.3",
+    "@angular/platform-browser-dynamic": "^18.2.3",
+    "@angular/platform-server": "^18.2.3",
+    "@angular/router": "^18.2.3",
+    "sweetalert2": "^11.14.0"
+  }
+}
